@@ -1,0 +1,26 @@
+{
+  "bid_number": "#E20P4600040",
+  "title": "Hardware Master Contract",
+  "due_date": "06/10/2024",
+  "bid_submission_type": "State's eMaryland Marketplace Advantage (eMMA) e-Procurement system (https://procurement.maryland.gov/emma-qrgs/)",
+  "term_of_bid": null,
+  "pre_bid_meeting": null,
+  "installation": null,
+  "bid_bond_requirement": null,
+  "delivery_date": "Within 45 days of Award",
+  "payment_terms": null,
+  "additional_documentation_required": [
+    "Mercury Affidavit (https://doit.maryland.gov/contracts/Documents/hardware_contract/hwmercury_affidavit.pdf)",
+    "Letter of Authorization (LOA) from the Manufacturer or Distributor (if requested)",
+    "Warranty certificate or Affidavit to be presented upon award"
+  ],
+  "mfg_for_registration": "Dell",
+  "contract_or_cooperative_to_use": "Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007",
+  "model_no": "SI# CC7802, WD22TB4",
+  "part_no": null,
+  "product": "Dell Latitude 5550, Dell Thunderbolt 4 Dock – WD22TB4",
+  "contact_info": "Tamaira Hawkins, thawkins@treasurer.state.md.us, 410-260-7533",
+  "company_name": "MD State Treasurer's Office",
+  "bid_summary": "The Maryland State Treasurer's Office is soliciting bids for a refresh of laptops and related accessories to accommodate MD529 employees, acquiring 30 Dell Latitude 5550 laptops and 30 Dell Thunderbolt 4 Docks (WD22TB4) with three-year extended warranties. Bidding is limited to Master Contractors awarded under the Desktop, Laptop and Tablet 2015 Master Contract (060B5400007) who are certified small business vendors under the Small Business Reserve program.",
+  "product_specification": "Laptops must be Microsoft Copilot ready, new and unused, and ENERGY STAR certified. Dell Limited Hardware Warranty Extended is required for all machines purchased for three years from delivery. The solicitation covers Dell Latitude 5550 laptops and Dell Thunderbolt 4 Dock – WD22TB4 units."
+}
